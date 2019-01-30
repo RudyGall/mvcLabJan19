@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace mvcLabJan19
 {
-    class CountryController
+     class CountryController
     {
         public void CountryDetails(Country c)
         {
@@ -27,7 +27,16 @@ namespace mvcLabJan19
                 {
                     CountryDetails cc = new CountryDetails(c);
                     cc.Display();
-                }              
+                }
+                
+                Console.WriteLine("Which Country would you like to know more about?");
+                string cInput = Console.ReadLine();
+
+                if(cInput.ToLower()=="usa")
+                {
+                    
+                    //Display2();
+                }
             }
             else if(input.ToLower()=="asia")
             {

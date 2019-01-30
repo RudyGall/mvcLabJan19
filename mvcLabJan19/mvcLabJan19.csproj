@@ -47,7 +47,7 @@
     <Compile Include="Country.cs" />
     <Compile Include="CountryController.cs" />
     <Compile Include="CountryDetails.cs" />
-    <Compile Include="CountryMenu.cs" />
+    <Compile Include="CountryMenuView.cs" />
     <Compile Include="NorthAmericaDB.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

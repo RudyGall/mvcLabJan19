@@ -11,7 +11,8 @@ namespace mvcLabJan19
         static void Main(string[] args)
         {
             CountryController cc = new CountryController();
-            cc.CountryMenu();                       
+            cc.CountryMenu();
+            cc.Display();
         }
     }
 }
