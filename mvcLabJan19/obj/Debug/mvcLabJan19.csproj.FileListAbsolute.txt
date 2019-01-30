@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\bin\Debug\mvcLabJan19.exe.config
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\bin\Debug\mvcLabJan19.exe
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\bin\Debug\mvcLabJan19.pdb
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\obj\Debug\mvcLabJan19.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\obj\Debug\mvcLabJan19.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\obj\Debug\mvcLabJan19.exe
+C:\Users\rudye\source\repos\mvcLabJan19\mvcLabJan19\obj\Debug\mvcLabJan19.pdb
